@@ -23,3 +23,4 @@ CREATE COMPUTE MODULE SAMPLE_Compute
 		SET OutputRoot.JSON.Data.Detail = InputRoot.XMLNSC.Name;
 	END;
 END MODULE;
+--HELLO
